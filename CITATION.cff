@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Spectral vs Topological Attention in Event-Based Vision"
+message: "If you use this software, please cite the associated paper."
+
+authors:
+  - family-names: Tran
+    given-names: Quy The
+
+license: MIT
+
+repository-code: "https://github.com/quyzthe/spectral-vs-topological-attention-event-vision"
+
+keywords:
+  - event-based vision
+  - saliency detection
+  - spectral residual
+  - boolean map saliency
+  - neuromorphic vision
+  - dynamic vision sensor
